@@ -9,14 +9,14 @@ module.exports = {
       'xl': {'max': '1279px'},
       // => @media (max-width: 1279px) { ... }
 
-      'lg': {'max': '1024px'},
-      // => @media (max-width: 1024px) { ... }
+      'lg': {'max': '1040px'},
+      // => @media (max-width: 1040px) { ... }
 
       'md': {'max': '768px'},
       // => @media (max-width: 768px) { ... }
 
-      'sm': {'max': '375px'},
-      // => @media (max-width: 375px) { ... }
+      'sm': {'max': '395px'},
+      // => @media (max-width: 395px) { ... }
     }
   },
   plugins: [],
