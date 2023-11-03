@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/css/main.dbd7cc51.css",
+    "main.js": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/js/main.8c482e7a.js",
+    "static/media/illustration-devices.svg": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/media/illustration-devices.30f970328fa2963777660c23d307ba6d.svg",
+    "index.html": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/index.html",
+    "static/media/icon-close.svg": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/media/icon-close.c77a2797ac0e70ef4281a67182fcc8dd.svg",
+    "static/media/logo.svg": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/media/logo.52a9134aef772ac89fd511696d08fec9.svg",
+    "static/media/icon-hamburger.svg": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/media/icon-hamburger.d2a3eed8f465f3e82f1608cba70330ce.svg",
+    "main.dbd7cc51.css.map": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/css/main.dbd7cc51.css.map",
+    "main.8c482e7a.js.map": "/ryiianqueiroz.github.io/tracking-intro-tailwind-react/static/js/main.8c482e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd7cc51.css",
+    "static/js/main.8c482e7a.js"
+  ]
+}
